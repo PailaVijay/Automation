@@ -1,0 +1,1 @@
+this file belongs to BVA ans ECP test data to optimize the message text box.
